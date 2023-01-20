@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Pandey</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+<img align="right" width=400 src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid8808&label=Profile%20views&color=0e75b6&style=flat" alt="sid8808" /> </p>
 
